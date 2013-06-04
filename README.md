@@ -1,7 +1,7 @@
 vio
 ===
 
-Use should use VIO if you need an extremely simple C++ API to
+VIO provides an extremely simple C++ API to 
 
 - Read video sources, including files, cameras and http streams,  frame by frame
 - Write video to output sinks, including screen and files 
